@@ -80,8 +80,6 @@
 2026-08-20T00:36:00.994+06:00  INFO 7941 --- [spring-security] [           main] c.l.s.SpringSecurityApplicationTests     : No active profile set, falling back to 1 default profile: "default"
 2026-08-20T00:36:01.652+06:00  WARN 7941 --- [spring-security] [           main] .s.a.UserDetailsServiceAutoConfiguration : 
 
-Using generated security password: 4b188e94-1fbd-4bde-92bd-debaf8ed296a
-
 This generated password is for development use only. Your security configuration must be updated before running your application in production.
 
 2026-08-20T00:36:01.676+06:00  INFO 7941 --- [spring-security] [           main] r$InitializeUserDetailsManagerConfigurer : Global AuthenticationManager configured with UserDetailsService bean with name inMemoryUserDetailsManager
