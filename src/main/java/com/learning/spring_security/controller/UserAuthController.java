@@ -1,6 +1,6 @@
 package com.learning.spring_security.controller;
 
-import com.learning.spring_security.UserAuthServiceImpl;
+import com.learning.spring_security.service.UserAuthServiceImpl;
 import com.learning.spring_security.entity.UserAuthEntity;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.crypto.password.PasswordEncoder;
