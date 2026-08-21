@@ -1,4 +1,4 @@
-package com.learning.spring_security;
+package com.learning.spring_security.service;
 
 import com.learning.spring_security.entity.UserAuthEntity;
 import com.learning.spring_security.repository.UserAuthRepository;
